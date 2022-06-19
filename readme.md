@@ -1,1 +1,1 @@
-https://img.shields.io/badge/</img src="React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=black"/>
